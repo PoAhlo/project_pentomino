@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://c4osy0dlbmu58"]
+
+[ext_resource type="Texture2D" uid="uid://thrp037e466c" path="res://assets/y.png" id="1_mee1h"]
+
+[node name="Y" type="Sprite2D"]
+position = Vector2(-157, -134)
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("1_mee1h")
+offset = Vector2(697, 443)

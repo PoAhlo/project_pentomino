@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpj5iraky7781"]
+
+[ext_resource type="Texture2D" uid="uid://detenvnh2k5fu" path="res://assets/p.png" id="1_etxeo"]
+
+[node name="P" type="Sprite2D"]
+position = Vector2(21, -25)
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("1_etxeo")
